@@ -1,0 +1,5 @@
+/target/
+/file.nc
+.settings
+.project
+.classpath
